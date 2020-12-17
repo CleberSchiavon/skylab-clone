@@ -1,0 +1,24 @@
+.divprincipal {
+  width: 350px;
+  height: 50px;
+  margin-top: 10px;
+}
+
+input {
+  background: rgb(25, 24, 31);
+}
+
+input,
+textarea {
+  height: 50px;
+  font-size: 15px;
+  width: 100%;
+  outline: 0px;
+  background: #19181f;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(40, 39, 44);
+  border-image: initial;
+  border-radius: 5px;
+  padding: 15px 21px;
+}

@@ -1,0 +1,66 @@
+.primeiradiv {
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  opacity: 1;
+  visibility: visible;
+  background: rgb(17, 17, 22);
+  padding: 0px 30px;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+.h2qualquer {
+  color: #fff;
+  font-family: "Spartan", sans-serif;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.container2 {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.nomeUsuario {
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 550;
+  font-size: 18px;
+}
+
+.fotoperfil {
+  width: 56px;
+  height: 56px;
+  border-image: initial;
+  border-radius: 50%;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #7159c1;
+}
+
+.email {
+  color: rgb(135, 134, 139);
+  font-size: 12px;
+}
+
+.hrefconta {
+  display: flex;
+  text-align: right;
+  padding: 12px 10px;
+}
+
+.divNomeeEmail {
+  display: flex;
+  flex-direction: column;
+  margin-right: 18px;
+  align-self: center;
+}

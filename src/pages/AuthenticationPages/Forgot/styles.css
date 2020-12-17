@@ -1,0 +1,31 @@
+.containerForgot {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.containerPrincipalForgot {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 520px;
+  flex: 1 1 0%;
+  padding: 32px;
+  justify-content: center;
+}
+
+.h1ForgotPassword {
+  color: #fff;
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  font-weight: "bold";
+}
+
+.textoVoltar {
+  color: rgb(135, 134, 139);
+  font-size: 14px;
+}
